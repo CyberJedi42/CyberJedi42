@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CyberJedi42
+- 👋 Hi, I’m @CyberJedi42 (Not the website! :P)
 - 👀 I’m interested in coding and learning new codes everyday.
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on python projects!
